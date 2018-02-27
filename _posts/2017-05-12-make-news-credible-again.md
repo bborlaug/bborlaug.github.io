@@ -12,6 +12,7 @@ The focus of our project was on building a data product from the ground up. We t
 This project provided me with my first opportunity to see a product through to production.  While not ground-breaking by any measure, our work suggests that traditional natural language processing techniques can be used to derive predictive features from news article text.  
 
 <br>
+  
 ### Additional Resources
 __Blog__: [Building a "Fake News" Classifier][medium]  
 __Project__: [MIDS Spring 2017 Capstone Project Page][mids]  
