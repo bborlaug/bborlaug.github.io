@@ -3,8 +3,9 @@ layout: post
 title: "Make News Credible Again"
 ---  
 
-_The spread of deliberate misinformation ("fake news") online presents a serious threat to democracy by undermining the prerequisite of a well-informed electorate. For our capstone project in UC Berkeley's MIDS program, we explored a number of machine learning-based approaches for identifying "fake news" in two of its most common forms - clickbait and propaganda._  
-
+The spread of deliberate misinformation ("fake news") online presents a serious threat to democracy by undermining the prerequisite of a well-informed electorate. For our capstone project in UC Berkeley's MIDS program, we explored a number of machine learning-based approaches for identifying "fake news" in two of its most common forms - clickbait and propaganda.  
+  
+<br>
 <img src="/img/mnca_clustering.png" alt='term-frequency clustering' style="width: 80%; margin: auto; display: block">
 
 ### Description
