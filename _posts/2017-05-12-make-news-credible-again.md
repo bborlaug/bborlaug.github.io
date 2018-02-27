@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Make News Credible Again"
----
-<img src="/img/mnca_clustering.png" alt='term-frequency clustering' style="width: 70%; margin: auto; display: block"><br>  
+---  
 
-The spread of deliberate misinformation ("fake news") online presents a serious threat to democracy by undermining the prerequisite of a well-informed electorate. For our capstone project in UC Berkeley's MIDS program, we explored a number of machine learning-based approaches for identifying "fake news" in two of its most common forms - clickbait and propaganda.  
+The spread of deliberate misinformation ("fake news") online presents a serious threat to democracy by undermining the prerequisite of a well-informed electorate. For our capstone project in UC Berkeley's MIDS program, we explored a number of machine learning-based approaches for identifying "fake news" in two of its most common forms - clickbait and propaganda.
 
-## Description
+<img src="/img/mnca_clustering.png" alt='term-frequency clustering' style="width: 70%; margin: auto; display: block"><br>
+
+### Description
 The focus of our project was on building a data product from the ground up. We trained an ensemble (naive bayes + boosted decision trees) text classifier on a corpus of "credible" and "non-credible" articles scraped from the web. For three months in 2017, we exposed the fully trained model for public requests via an API and web application. We created dynamic visualizations to explore the model's performance and learned patterns over time.  
 
 This project provided me with my first opportunity to see a product through to production.  While not ground-breaking by any measure, our work suggests that traditional natural language processing techniques can be used to derive predictive features from news article text.
